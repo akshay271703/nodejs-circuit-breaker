@@ -3,6 +3,7 @@
 ## How to run code
 
 ```
+npm install
 npm run start
 ```
 
