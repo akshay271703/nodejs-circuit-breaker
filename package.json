@@ -1,0 +1,15 @@
+{
+  "name": "avoidspamminglogs",
+  "version": "1.0.0",
+  "description": "## How to run code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Akshay Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
